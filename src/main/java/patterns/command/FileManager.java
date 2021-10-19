@@ -1,6 +1,5 @@
 package patterns.command;
 
-import sun.jvm.hotspot.debugger.sparc.SPARCThreadContext;
 
 import java.io.File;
 import java.io.IOException;
